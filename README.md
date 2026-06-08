@@ -110,38 +110,6 @@ The platform combines multiple smart farming technologies into a single ecosyste
 
 ---
 
-# 🚀 Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/Kartiksinghparihar/Agrigrow.git
-```
-
-## Frontend
-
-```bash
-npm install
-
-npm start
-```
-
-## Backend
-
-```bash
-cd backend
-
-python -m venv venv
-
-venv\Scripts\activate
-
-pip install -r requirements.txt
-
-python app.py
-```
-
----
-
 # 🔐 Authentication System
 
 Secure login system built with Firebase.
@@ -374,6 +342,37 @@ Fast AI model for plant classification.
 * Satellite Crop Analysis
 * Smart Irrigation
 * Marketplace Integration
+
+---
+# 🚀 Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/Kartiksinghparihar/Agrigrow.git
+```
+
+## Frontend
+
+```bash
+npm install
+
+npm start
+```
+
+## Backend
+
+```bash
+cd backend
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python app.py
+```
 
 ---
 
