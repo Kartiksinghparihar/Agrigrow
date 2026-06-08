@@ -1,0 +1,104 @@
+.sensor-container {
+  padding: 30px;
+  background: #f4f9f4;   /* solid background (no fade issue) */
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+/* HEADER */
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+
+  background: rgb(68, 211, 68);
+  padding: 15px;
+  border-radius: 12px;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  color: #0d3b1e;          /* strong dark green */
+  font-weight: 800;
+  letter-spacing: 1px;
+
+  text-shadow: 0px 2px 6px rgba(0,0,0,0.15); /* fixes fade */
+}
+
+.header p {
+  color: #2e7d32;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+/* GRID */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+/* CARD */
+.card {
+  background: white;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: 0.3s;
+
+  min-height: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* VALUE TEXT */
+.value {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 10px;
+  color: #222;
+
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* STATUS COLORS */
+.red {
+  background: #ffebee;
+  border-left: 6px solid red;
+}
+
+.orange {
+  background: #fff3e0;
+  border-left: 6px solid orange;
+}
+
+.green {
+  background: #e8f5e9;
+  border-left: 6px solid green;
+}
+
+/* STATUS PANEL */
+.status-panel {
+  margin-top: 30px;
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.status-panel h2 {
+  margin-bottom: 10px;
+  color: #0d3b1e;
+  font-weight: 700;
+}

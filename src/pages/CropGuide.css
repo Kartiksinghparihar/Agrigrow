@@ -1,0 +1,18 @@
+.guide-container{
+  padding:40px;
+}
+
+.guide-container h1{
+  background:#2e7d32;
+  color:white;
+  padding:15px;
+  border-radius:10px;
+}
+
+.guide-card{
+  background:#f5f5f5;
+  padding:20px;
+  margin-top:20px;
+  border-left:6px solid #2e7d32;
+  border-radius:10px;
+}

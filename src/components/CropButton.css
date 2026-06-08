@@ -1,0 +1,23 @@
+.crop-btn-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.crop-btn {
+  background: white;
+  color: #2e7d32;
+  border: none;
+  padding: 12px 25px;
+  font-size: 18px;
+  border-radius: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.crop-btn:hover {
+  transform: scale(1.05);
+  background: #e8f5e9;
+}

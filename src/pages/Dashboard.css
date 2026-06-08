@@ -1,0 +1,101 @@
+/* ========================= */
+/* MAIN DASHBOARD CONTAINER */
+/* ========================= */
+.dashboard {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Dark overlay for better readability */
+.dashboard::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 0;
+}
+
+/* ========================= */
+/* HERO SECTION */
+/* ========================= */
+.hero {
+  position: relative;
+  z-index: 2;
+  height: calc(100vh - 70px);
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+}
+
+/* ========================= */
+/* HERO BOX */
+/* ========================= */
+.hero-box {
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(12px);
+  padding: 50px;
+  border-radius: 20px;
+  max-width: 600px;
+  color: white;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.4);
+}
+
+/* ========================= */
+/* HEADINGS */
+/* ========================= */
+.hero-box h1 {
+  font-size: 58px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.hero-box span {
+  color: #ffd700;
+}
+
+.hero-box p {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+/* ========================= */
+/* BUTTONS */
+/* ========================= */
+.hero-buttons {
+  margin-top: 30px;
+}
+
+.primary-btn {
+  padding: 14px 30px;
+  border-radius: 30px;
+  border: none;
+  font-weight: 600;
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin-right: 15px;
+}
+
+.secondary-btn {
+  padding: 14px 30px;
+  border-radius: 30px;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.primary-btn:hover,
+.secondary-btn:hover {
+  transform: scale(1.08);
+}

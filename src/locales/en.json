@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "AgriCare"
+  },
+  "navbar": {
+    "home": "Home",
+    "diagnose": "Diagnose",
+    "sensor": "Sensor",
+    "plantDetection": "Plant Detection",
+    "cropRecommendation": "Crop Recommendation",
+    "agrilearn": "AgriLearn",
+    "weather": "Weather",
+    "contact": "Contact"
+  },
+  "landing": {
+    "title": "AGRI GROW",
+    "subtitle": "Intelligent Farming Support",
+    "getStarted": "Get Started"
+  },
+  "common": {
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "crop": {
+    "title": "Crop Recommendation",
+    "button": "Get Recommendation"
+  },
+  "soil": {
+    "moisture": "Soil Moisture"
+  },
+  "agrilearn": {
+  "title": "AgriLearn",
+  "search": "Search crops...",
+  "all": "All Categories",
+  "field": "Field Crops",
+  "fruits": "Fruits",
+  "vegetables": "Vegetables",
+  "speak": "Speak",
+  "voiceNotSupported": "Speech Recognition not supported",
+  "voiceError": "Voice error"
+},
+"crops": {
+  "wheat": "Wheat",
+  "rice": "Rice",
+  "corn": "Corn",
+  "ragi": "Ragi",
+  "sugarcane": "Sugarcane",
+  "apple": "Apple",
+  "grapes": "Grapes",
+  "banana": "Banana",
+  "mango": "Mango",
+  "orange": "Orange",
+  "potato": "Potato",
+  "tomato": "Tomato",
+  "onion": "Onion",
+  "carrot": "Carrot",
+  "cabbage": "Cabbage"
+}
+}
+

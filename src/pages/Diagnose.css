@@ -1,0 +1,147 @@
+.diagnose-page {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+/* Glass Card */
+
+.glass-card {
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(12px);
+  padding: 40px;
+  border-radius: 15px;
+  width: 420px;
+  color: white;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+/* Upload */
+
+input[type="file"] {
+  margin-top: 15px;
+  color: white;
+}
+
+/* Preview */
+
+.preview {
+  width: 250px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+/* Button */
+
+button {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #2e7d32;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1b5e20;
+}
+
+/* Loader */
+
+.loader {
+  margin-top: 20px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid rgba(255,255,255,0.3);
+  border-top: 4px solid white;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Result Card */
+
+.result-card {
+  margin-top: 25px;
+  background: white;
+  color: black;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: left;
+}
+
+/* 🌿 Plant Name */
+
+.plant-name {
+  font-size: 26px;
+  font-weight: bold;
+  color: #2e7d32;
+}
+
+/* 🌱 Disease Badge */
+
+.disease-badge {
+  padding: 10px;
+  border-radius: 8px;
+  margin: 10px 0;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.healthy {
+  background: #c8e6c9;
+  color: #1b5e20;
+}
+
+.diseased {
+  background: #ffcdd2;
+  color: #b71c1c;
+}
+
+/* Confidence bar */
+
+.confidence-bar {
+  width: 100%;
+  height: 10px;
+  background: #ddd;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+
+.confidence-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #4caf50, #2e7d32);
+  border-radius: 6px;
+}
+
+/* Confidence text */
+
+.confidence-text {
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+/* Treatment */
+
+.result-card ul {
+  padding-left: 20px;
+}
+
+.result-card li {
+  margin-bottom: 6px;
+}
