@@ -26,26 +26,23 @@
 
 # 📑 Table of Contents
 
-* About
-* Features
-* Tech Stack
-* Installation
-* Authentication
-* Dashboard
-* Crop Recommendation
-* Disease Detection
-* Offline Plant Detection
-* Smart Farm Monitoring
-* Weather Dashboard
-* AgriLearn
-* Contact Module
-* Firebase Integration
-* IoT Prototype
-* Future Enhancements
-* Developer
-
----
-
+- [About](#-about)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [Authentication System](#-authentication-system)
+- [Smart Dashboard](#-smart-dashboard)
+- [Crop Recommendation System](#-crop-recommendation-system)
+- [AI Crop Disease Detection](#-ai-crop-disease-detection)
+- [Offline Plant Detection](#-offline-plant-detection)
+- [Smart Farm Monitoring](#-smart-farm-monitoring)
+- [Weather Dashboard](#-weather-dashboard)
+- [AgriLearn](#-agrilearn)
+- [Contact Module](#-contact-module)
+- [Firebase Integration](#-firebase-integration)
+- [IoT Smart Farming Prototype](#-iot-smart-farming-prototype)
+- [Future Enhancements](#-future-enhancements)
+- [Developer Info](#-developer-info)
 # 📖 About
 
 AgriGrow is an AI-powered Smart Agriculture platform designed to assist farmers using **Machine Learning, Artificial Intelligence, IoT, and Firebase**.
@@ -376,32 +373,63 @@ python app.py
 
 ---
 
-# 👨‍💻 Developer
+# 👨‍💻 Developer Info
 
 <div align="center">
 
-## Kartik Singh Parihar
+<table>
 
-### B.Tech Computer Science Engineering
+<tr>
 
-### Interests
+<td align="center">
 
-🤖 Artificial Intelligence
+<img src="assets/kartik.jpg" width="220">
 
-🌱 Machine Learning
+<h2>Kartik Singh Parihar</h2>
 
-📡 Internet of Things
+<h3>Full Stack Developer</h3>
 
-⚛ Full Stack Development
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
+</a>
 
-🚜 Smart Agriculture Solutions
+<a href="https://github.com/Kartiksinghparihar">
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center">
+
+<img src="assets/developer2.jpg" width="220">
+
+<h2>Second Developer</h2>
+
+<h3>ML & IoT Developer</h3>
+
+<a href="LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
+</a>
+
+<a href="GITHUB">
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge">
+</a>
+
+<a href="mailto:EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
-
----
-
-<div align="center">
-
 ## ⭐ Support
 
 If you like this project, please give it a star on GitHub.
