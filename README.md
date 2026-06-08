@@ -383,21 +383,21 @@ python app.py
 
 <td align="center">
 
-<img src="assets/kartik.jpg" width="220">
+<img src="assest/kartik.jpeg" width="220">
 
 <h2>Kartik Singh Parihar</h2>
 
 <h3>Full Stack Developer</h3>
 
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/kartik-singh-parihar-973518329/)">
 <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
 </a>
 
-<a href="https://github.com/Kartiksinghparihar">
+<a href="[https://github.com/Kartiksinghparihar](https://github.com/Kartiksinghparihar)">
 <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kartiksinghp2006@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge">
 </a>
 
@@ -405,21 +405,21 @@ python app.py
 
 <td align="center">
 
-<img src="assets/developer2.jpg" width="220">
+<img src="assest/WhatsApp Image 2026-06-04 at 11.43.41 (1).jpeg" width="220">
 
-<h2>Second Developer</h2>
+<h2>Khyati Sahu</h2>
 
 <h3>ML & IoT Developer</h3>
 
-<a href="LINKEDIN">
+<a href="[LINKEDIN](https://www.linkedin.com/in/khyati-sahu-178506380/)">
 <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
 </a>
 
-<a href="GITHUB">
+<a href="[GITHUB](https://github.com/misspresident-codes)">
 <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge">
 </a>
 
-<a href="mailto:EMAIL">
+<a href="mailto:skhyati263@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge">
 </a>
 
