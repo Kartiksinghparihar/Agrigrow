@@ -154,7 +154,7 @@ Secure login system built with Firebase.
 * Firebase Authentication
 
 <p align="center">
-<img src="assets/login.png" width="95%">
+<img src="assest/Screenshot 2026-06-08 164129.png" width="95%">
 </p>
 
 ---
@@ -171,7 +171,7 @@ Central hub for accessing all smart farming modules.
 * Smart Monitoring
 
 <p align="center">
-<img src="assets/dashboard.png" width="95%">
+<img src="assest/Screenshot 2026-06-08 164203.png" width="95%">
 </p>
 
 ---
@@ -191,7 +191,7 @@ Machine Learning model that predicts the most suitable crop.
 * Rainfall
 
 <p align="center">
-<img src="assets/crop.png" width="95%">
+<img src="assest/Screenshot 2026-06-08 164449.png" width="95%">
 </p>
 
 ---
@@ -208,7 +208,7 @@ Upload a crop image and let AI detect diseases.
 * Treatment Suggestion
 
 <p align="center">
-<img src="assets/disease.png" width="95%">
+<img src="assest/disease.png" width="95%">
 </p>
 
 ---
@@ -224,7 +224,7 @@ Detect plants without requiring internet connectivity.
 * Easy to Use
 
 <p align="center">
-<img src="assets/plant.png" width="95%">
+<img src="assest/plant.png" width="95%">
 </p>
 
 ---
@@ -242,7 +242,7 @@ Real-time farm monitoring using IoT sensors.
 * Farm Activity
 
 <p align="center">
-<img src="assets/sensor.png" width="95%">
+<img src="assest/crop.png" width="95%">
 </p>
 
 ---
@@ -260,7 +260,7 @@ Smart weather forecasting system for farmers.
 * Agricultural Insights
 
 <p align="center">
-<img src="assets/weather.png" width="95%">
+<img src="assest/weather.png" width="95%">
 </p>
 
 ---
@@ -277,7 +277,7 @@ Agriculture education and information portal.
 * Voice Assistance
 
 <p align="center">
-<img src="assets/agrilearn.png" width="95%">
+<img src="assest/agrilearn.png" width="95%">
 </p>
 
 ---
@@ -293,7 +293,7 @@ Users can directly send feedback and queries.
 * Farmer Support
 
 <p align="center">
-<img src="assets/contact.png" width="95%">
+<img src="assest/contact.png" width="95%">
 </p>
 
 ---
@@ -303,7 +303,7 @@ Users can directly send feedback and queries.
 Stores application data securely.
 
 <p align="center">
-<img src="assets/firebase1.png" width="95%">
+<img src="assest/Screenshot 2026-06-08 164547.png" width="95%">
 </p>
 
 ---
@@ -313,7 +313,7 @@ Stores application data securely.
 Stores authenticated user information.
 
 <p align="center">
-<img src="assets/firebase2.png" width="95%">
+<img src="assest/Screenshot 2026-06-08 164557.png" width="95%">
 </p>
 
 ---
@@ -323,7 +323,7 @@ Stores authenticated user information.
 Real-time IoT sensor data collection.
 
 <p align="center">
-<img src="assets/firebase3.png" width="95%">
+<img src="assest/Screenshot 2026-06-08 164619.png" width="95%">
 </p>
 
 ---
@@ -341,7 +341,7 @@ Hardware implementation of AgriGrow.
 * Water Pump
 
 <p align="center">
-<img src="assets/prototype.jpg" width="95%">
+<img src="assest/WhatsApp Image 2026-06-08 at 16.47.42.jpeg" width="95%">
 </p>
 
 ---
