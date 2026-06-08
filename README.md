@@ -1,14 +1,16 @@
-# 🌱 AgriGrow
-
 <div align="center">
+
+# 🌱 AgriGrow
 
 ### 🚜 AI Powered Smart Farming Ecosystem
 
 ### AI • Machine Learning • IoT • Firebase • Smart Agriculture
 
+<br>
+
 <img src="assets/demo.gif" width="100%">
 
-<br>
+<br><br>
 
 ![React](https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=for-the-badge\&logo=react)
 ![Python](https://img.shields.io/badge/Backend-Flask-3776AB?style=for-the-badge\&logo=python)
@@ -16,33 +18,53 @@
 ![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-red?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/Hardware-IoT-success?style=for-the-badge)
 
----
-
-### ⭐ If you like this project, consider giving it a star!
+### ⭐ Smart Farming for a Better Tomorrow
 
 </div>
 
 ---
 
-# 📖 About The Project
+# 📑 Table of Contents
 
-AgriGrow is an AI-driven Smart Agriculture platform that combines **Machine Learning, IoT, Firebase, and Modern Web Technologies** to help farmers make better decisions and increase productivity.
-
-The system provides a complete digital ecosystem for agriculture through intelligent crop analysis, disease detection, weather forecasting, and real-time farm monitoring.
+* About
+* Features
+* Tech Stack
+* Installation
+* Authentication
+* Dashboard
+* Crop Recommendation
+* Disease Detection
+* Offline Plant Detection
+* Smart Farm Monitoring
+* Weather Dashboard
+* AgriLearn
+* Contact Module
+* Firebase Integration
+* IoT Prototype
+* Future Enhancements
+* Developer
 
 ---
 
-# 🚀 Features
+# 📖 About
+
+AgriGrow is an AI-powered Smart Agriculture platform designed to assist farmers using **Machine Learning, Artificial Intelligence, IoT, and Firebase**.
+
+The platform combines multiple smart farming technologies into a single ecosystem that helps farmers improve crop quality, monitor farms remotely, and make intelligent agricultural decisions.
+
+---
+
+# ✨ Features
 
 * 🌾 AI Crop Recommendation
-* 🍃 Crop Disease Detection
+* 🍃 AI Crop Disease Detection
 * 🌱 Offline Plant Detection
-* 📡 IoT Smart Farm Monitoring
-* ☁ Weather Dashboard
-* 📚 AgriLearn Platform
+* 📡 Smart Farm Monitoring
+* ☁ Weather Forecast Dashboard
+* 📚 AgriLearn Educational Platform
 * 🔐 Firebase Authentication
-* 📬 Contact & Feedback Module
-* 🌍 Multi-language Support
+* 📬 Contact & Feedback System
+* 🤖 IoT Integration
 
 ---
 
@@ -74,9 +96,9 @@ The system provides a complete digital ecosystem for agriculture through intelli
 
 ## Authentication
 
+* Google Login
+* Mobile OTP Login
 * Firebase Authentication
-* Google OAuth
-* Mobile OTP
 
 ## Hardware
 
@@ -88,189 +110,6 @@ The system provides a complete digital ecosystem for agriculture through intelli
 
 ---
 
-# 📂 Project Structure
-
-```text
-AgriGrow
-│
-├── backend
-├── public
-├── src
-├── assets
-└── README.md
-```
-
----
-
-# 📸 Project Preview
-
----
-
-## 🏠 Landing Page
-
-AI-powered modern agriculture platform.
-
-<img src="YOUR_HOME_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🔐 Authentication
-
-Secure login using Google and Mobile OTP.
-
-<img src="YOUR_LOGIN_SCREENSHOT_PATH" width="100%">
-
----
-
-## 📊 Dashboard
-
-Central dashboard for accessing all smart farming services.
-
-<img src="YOUR_DASHBOARD_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🌾 Crop Recommendation
-
-Machine Learning based crop recommendation using:
-
-* Nitrogen
-* Phosphorus
-* Potassium
-* Temperature
-* Humidity
-* pH
-* Rainfall
-
-<img src="YOUR_CROP_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🍃 AI Crop Disease Detection
-
-Upload crop images and get:
-
-* Disease Name
-* Prediction Confidence
-* Treatment Suggestion
-
-<img src="YOUR_DISEASE_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🌱 Offline Plant Detection
-
-AI-based plant detection without internet connectivity.
-
-<img src="YOUR_PLANT_SCREENSHOT_PATH" width="100%">
-
----
-
-## 📡 Smart Farm Monitoring
-
-Real-time monitoring of:
-
-* Temperature
-* Humidity
-* Soil Moisture
-* Pump Status
-* Farm Activity
-
-<img src="YOUR_SENSOR_SCREENSHOT_PATH" width="100%">
-
----
-
-## ☁ Weather Dashboard
-
-Provides:
-
-* Current Weather
-* Hourly Forecast
-* Weekly Forecast
-* Farmer Alerts
-
-<img src="YOUR_WEATHER_SCREENSHOT_PATH" width="100%">
-
----
-
-## 📚 AgriLearn
-
-Educational agriculture learning module.
-
-<img src="YOUR_AGRILEARN_SCREENSHOT_PATH" width="100%">
-
----
-
-## 📬 Contact Module
-
-Users can directly submit feedback and queries.
-
-<img src="YOUR_CONTACT_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🔥 Firebase Firestore
-
-Secure storage of user information and application data.
-
-<img src="YOUR_FIREBASE1_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🔥 Firebase User Authentication
-
-Google Login and Mobile OTP authentication.
-
-<img src="YOUR_FIREBASE2_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🔥 Firebase Realtime Database
-
-Real-time IoT sensor data monitoring.
-
-<img src="YOUR_FIREBASE3_SCREENSHOT_PATH" width="100%">
-
----
-
-## 🤖 Smart Farming IoT Prototype
-
-Hardware implementation of the AgriGrow ecosystem.
-
-<img src="YOUR_IOT_MODEL_SCREENSHOT_PATH" width="100%">
-
----
-
-# 🤖 Machine Learning Modules
-
-### Crop Recommendation System
-
-Predicts the best crop using environmental and soil parameters.
-
----
-
-### Plant Disease Detection
-
-Deep Learning model for identifying crop diseases.
-
----
-
-### Offline Plant Detection
-
-Fast local inference without internet dependency.
-
----
-
-# 📡 IoT Features
-
-* Real-Time Monitoring
-* Sensor Data Collection
-* Water Pump Control
-* Firebase Integration
-* Smart Agriculture Automation
-
----
-
 # 🚀 Installation
 
 ## Clone Repository
@@ -279,8 +118,6 @@ Fast local inference without internet dependency.
 git clone https://github.com/Kartiksinghparihar/Agrigrow.git
 ```
 
----
-
 ## Frontend
 
 ```bash
@@ -288,8 +125,6 @@ npm install
 
 npm start
 ```
-
----
 
 ## Backend
 
@@ -307,14 +142,238 @@ python app.py
 
 ---
 
+# 🔐 Authentication System
+
+Secure login system built with Firebase.
+
+### Features
+
+* Google Authentication
+* Mobile OTP Login
+* Secure User Storage
+* Firebase Authentication
+
+<p align="center">
+<img src="assets/login.png" width="95%">
+</p>
+
+---
+
+# 🏠 Smart Dashboard
+
+Central hub for accessing all smart farming modules.
+
+### Includes
+
+* Quick Navigation
+* Farmer Services
+* AI Modules
+* Smart Monitoring
+
+<p align="center">
+<img src="assets/dashboard.png" width="95%">
+</p>
+
+---
+
+# 🌾 Crop Recommendation System
+
+Machine Learning model that predicts the most suitable crop.
+
+### Prediction Parameters
+
+* Nitrogen
+* Phosphorus
+* Potassium
+* Temperature
+* Humidity
+* pH
+* Rainfall
+
+<p align="center">
+<img src="assets/crop.png" width="95%">
+</p>
+
+---
+
+# 🍃 AI Crop Disease Detection
+
+Upload a crop image and let AI detect diseases.
+
+### Features
+
+* Image Upload
+* Disease Prediction
+* Confidence Score
+* Treatment Suggestion
+
+<p align="center">
+<img src="assets/disease.png" width="95%">
+</p>
+
+---
+
+# 🌱 Offline Plant Detection
+
+Detect plants without requiring internet connectivity.
+
+### Advantages
+
+* Fast Prediction
+* Offline AI Model
+* Easy to Use
+
+<p align="center">
+<img src="assets/plant.png" width="95%">
+</p>
+
+---
+
+# 📡 Smart Farm Monitoring
+
+Real-time farm monitoring using IoT sensors.
+
+### Monitors
+
+* Temperature
+* Humidity
+* Soil Moisture
+* Water Pump Status
+* Farm Activity
+
+<p align="center">
+<img src="assets/sensor.png" width="95%">
+</p>
+
+---
+
+# ☁ Weather Dashboard
+
+Smart weather forecasting system for farmers.
+
+### Features
+
+* Current Weather
+* Hourly Forecast
+* Weekly Forecast
+* Weather Alerts
+* Agricultural Insights
+
+<p align="center">
+<img src="assets/weather.png" width="95%">
+</p>
+
+---
+
+# 📚 AgriLearn
+
+Agriculture education and information portal.
+
+### Modules
+
+* Crops
+* Fruits
+* Search System
+* Voice Assistance
+
+<p align="center">
+<img src="assets/agrilearn.png" width="95%">
+</p>
+
+---
+
+# 📬 Contact Module
+
+Users can directly send feedback and queries.
+
+### Features
+
+* Firebase Storage
+* Contact Form
+* Farmer Support
+
+<p align="center">
+<img src="assets/contact.png" width="95%">
+</p>
+
+---
+
+# 🔥 Firebase Firestore
+
+Stores application data securely.
+
+<p align="center">
+<img src="assets/firebase1.png" width="95%">
+</p>
+
+---
+
+# 🔐 Firebase Authentication Database
+
+Stores authenticated user information.
+
+<p align="center">
+<img src="assets/firebase2.png" width="95%">
+</p>
+
+---
+
+# 📡 Firebase Realtime Database
+
+Real-time IoT sensor data collection.
+
+<p align="center">
+<img src="assets/firebase3.png" width="95%">
+</p>
+
+---
+
+# 🤖 IoT Smart Farming Prototype
+
+Hardware implementation of AgriGrow.
+
+### Components
+
+* ESP32
+* Soil Moisture Sensor
+* DHT Sensor
+* Relay Module
+* Water Pump
+
+<p align="center">
+<img src="assets/prototype.jpg" width="95%">
+</p>
+
+---
+
+# 🤖 Machine Learning Models
+
+### Crop Recommendation
+
+Predicts the best crop using soil and climate data.
+
+---
+
+### Disease Detection
+
+Deep Learning model for crop disease identification.
+
+---
+
+### Offline Plant Detection
+
+Fast AI model for plant classification.
+
+---
+
 # 🌍 Future Enhancements
 
-* AI Chatbot for Farmers
+* AI Chatbot
 * Mobile Application
 * Drone Monitoring
+* Satellite Crop Analysis
 * Smart Irrigation
 * Marketplace Integration
-* Satellite Crop Analysis
 
 ---
 
@@ -336,7 +395,7 @@ python app.py
 
 ⚛ Full Stack Development
 
-🚜 Smart Agriculture
+🚜 Smart Agriculture Solutions
 
 </div>
 
@@ -344,10 +403,10 @@ python app.py
 
 <div align="center">
 
-# ⭐ Support
+## ⭐ Support
 
-If you found this project helpful, please give it a star.
+If you like this project, please give it a star on GitHub.
 
-## 🌱 Made with ❤️ for Smart Farming and Sustainable Agriculture 🚜
+### 🌱 Made with ❤️ for Smart Farming and Sustainable Agriculture 🚜
 
 </div>
